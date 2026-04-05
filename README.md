@@ -7,7 +7,7 @@ Building scalable web applications with React & Next.js • Strong in DSA & prob
 
 
 
-- 🎓 Final Year Information Science and Engineering student at **Sir M Visvesvaraya Institute of Technology (VTU) with the CGPA of 9.04**  
+- 🎓 Final Year Information Science and Engineering student at **Sir M Visvesvaraya Institute of Technology (VTU) with the CGPA of 9.06**  
 - 💻 Frontend Developer with hands-on experience in **React, Next.js, Tailwind CSS**
 - 🧠 Solved **400+ DSA problems** on LeetCode 
 - 🌱 Currently learning **Next.js (advanced) & Node.js**
