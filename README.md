@@ -43,10 +43,10 @@ Building scalable web applications with React & Next.js • Strong in DSA & prob
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pramitha-p-6b05412a5/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
 </a>
 <a href="https://leetcode.com/u/pramitha_p/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/>
 </a>
 </p>
 
