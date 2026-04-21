@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramitha P</h1>
-<h3 align="center">Frontend Developer | Information Science Engineering Student</h3>
+<h3 align="center">Full Stack Developer | Information Science Engineering Student</h3>
 
 <p align="center">
 Building scalable web applications with React & Next.js • Strong in DSA & problem-solving
@@ -8,7 +8,7 @@ Building scalable web applications with React & Next.js • Strong in DSA & prob
 
 
 - 🎓 Final Year Information Science and Engineering student at **Sir M Visvesvaraya Institute of Technology (VTU) with the CGPA of 9.06**  
-- 💻 Frontend Developer with hands-on experience in **React, Next.js, Tailwind CSS**
+- 💻 Full Stack Developer with hands-on experience in **React, Next.js, Tailwind CSS**
 - 🧠 Solved **400+ DSA problems** across LeetCode and other coding platforms 
 - 🌱 Currently learning **Next.js (advanced) & Node.js**
 - 💬 Ask me about **React, JavaScript, C++, DSA**
