@@ -53,7 +53,7 @@ Building scalable web applications with React & Next.js • Strong in DSA & prob
 
 
 <h3 align="left">🛠 Languages & Tools</h3>
-<p align="left">
+<p align="left style="display:flex; flex-wrap:wrap; gap:10px; align-items:center;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
